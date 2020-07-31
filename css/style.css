@@ -36,3 +36,8 @@ h3 {
    letter-spacing: 5px;
    padding: 1em;
 }
+
+a {
+   color: #AE8BA1;
+   background-color: transparent;
+}
