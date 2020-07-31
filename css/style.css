@@ -18,6 +18,11 @@ header {
 main {
    padding-top: 2em;
 }
+
+img {
+   padding: 15px;
+}
+
 h1 {
    font-size: 4em;
    font-weight: 600; 
