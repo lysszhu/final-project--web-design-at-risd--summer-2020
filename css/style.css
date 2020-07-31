@@ -67,6 +67,11 @@ a {
    background-color: transparent;
 }
 
+a:hover {
+   color: #655773;
+   background-color: transparent;
+}
+
 footer {
    padding: 1em;
 }
