@@ -5,3 +5,13 @@ body {
    text-align: center;
    line-height: normal;
 }
+
+header {
+   background-color: #AE8BA1;
+   background-repeat: no-repeat;
+   background-image: linear-gradient(to top, #AE8BA1, #F2ECB6);
+   color: white;
+   padding-top: 5em;
+   padding-bottom: 5em;
+}
+
