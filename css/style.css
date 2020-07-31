@@ -19,6 +19,11 @@ main {
    padding-top: 2em;
 }
 
+p {
+   line-height: 30px;
+   padding-left: 25em;
+   padding-right: 25em;
+}
 div {
    display: flex;
    justify-content: center;
