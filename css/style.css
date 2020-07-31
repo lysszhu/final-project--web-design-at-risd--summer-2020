@@ -18,3 +18,21 @@ header {
 main {
    padding-top: 2em;
 }
+h1 {
+   font-size: 4em;
+   font-weight: 600; 
+   letter-spacing: 5px;
+}
+
+h2 {
+   font-size: 3em;
+   font-weight: 600;
+   letter-spacing: 5px;
+   padding-bottom: 20px;
+}
+
+h3 {
+   font-size: 2em;
+   letter-spacing: 5px;
+   padding: 1em;
+}
